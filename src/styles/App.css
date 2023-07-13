@@ -2,6 +2,7 @@
   text-align: center;
   height: 100vh;
   width: 100vw;
+  background-color: #acc8e5;
 }
 
 .searchBar {
@@ -91,4 +92,61 @@
   border-radius: 4px;
   text-align: center;
   height: 143px;
+}
+
+.header {
+  margin-top: 0px;
+  background-color: #112a46;
+  height: 90px;
+  padding-top: 5px;
+}
+
+.addNewButton {
+  padding-top: 10px;
+}
+
+.getStartedCard {
+  border: 2px solid black;
+  height: 180px;
+  margin-left: 23px;
+  width: 85%;
+  padding: 0px;
+  margin-top: 36px;
+}
+
+.helloWorldCard {
+  border: 2px solid black;
+  height: 180px;
+  margin-left: 23px;
+  width: 85%;
+  padding: 0px;
+  margin-top: 20px;
+}
+
+.cardBanner {
+  border-bottom: 2px solid black;
+  margin-bottom: 29px;
+  margin-top: -20px;
+  height: 55px;
+  background-color: #112a46;
+}
+
+.cardBanner2 {
+  padding-bottom: 0px;
+  border-bottom: 2px solid black;
+  margin-top: -20px;
+  margin-bottom: -13px;
+  background-color: #112a46;
+  height: 55px;
+}
+
+.signUpButton {
+  margin-left: 2px;
+  width: 129px;
+  height: 37px;
+}
+
+.signInButton {
+  width: 129px;
+  height: 37px;
 }
